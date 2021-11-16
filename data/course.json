@@ -1,0 +1,30 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Transportation Planning"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "56bfbcd0-cc3e-8b93-75cd-510980b15681"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Transportation Policy, Strategy, and Management",
+  "course_description": "This class surveys the current concepts, theories, and issues in strategic management of transportation organizations. It provides transportation logistics and engineering systems students with an overview of the operating context, leadership challenges, strategies, and management tools that are used in today's public and private transportation organizations. The following concepts, tools, and issues are presented in both public and private sector cases: alternative models of decision-making, strategic planning (e.g., use of SWOT analysis and scenario development), stakeholder valuation and analysis, government-based regulation and cooperation within the transportation enterprise, disaster communications, systems safety, change management, and the impact of globalization.\n",
+  "department_numbers": [
+    "1",
+    "ESD"
+  ],
+  "extra_course_numbers": "ESD.203J",
+  "primary_course_number": "1.223J",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
